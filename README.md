@@ -82,18 +82,18 @@ npm run lint
 ## Project Structure:
 
 Project Structure:
-├── dist/                  # Build output directory
-├── src/                   # Source code directory
-├── eslint.config.js       # ESLint configuration
-├── index.html             # Main HTML file
-├── package-lock.json      # Lock file for dependencies
-├── package.json           # Project configuration and dependencies
-├── postcss.config.js      # PostCSS configuration for Tailwind CSS
-├── tailwind.config.js     # Tailwind CSS configuration
-├── tsconfig.app.json      # TypeScript configuration for the app
-├── tsconfig.json          # Root TypeScript configuration
-├── tsconfig.node.json     # TypeScript configuration for Node.js
-└── vite.config.ts         # Vite configuration
+dist/                  # Build output directory
+src/                   # Source code directory
+eslint.config.js       # ESLint configuration
+index.html             # Main HTML file
+package-lock.json      # Lock file for dependencies
+package.json           # Project configuration and dependencies
+postcss.config.js      # PostCSS configuration for Tailwind CSS
+tailwind.config.js     # Tailwind CSS configuration
+tsconfig.app.json      # TypeScript configuration for the app
+tsconfig.json          # Root TypeScript configuration
+tsconfig.node.json     # TypeScript configuration for Node.js
+vite.config.ts         # Vite configuration
 
 ## Planned Features
 
