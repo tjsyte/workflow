@@ -81,6 +81,7 @@ npm run lint
 
 ## Project Structure:
 
+Project Structure:
 ├── dist/                  # Build output directory
 ├── src/                   # Source code directory
 ├── eslint.config.js       # ESLint configuration
