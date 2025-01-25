@@ -81,7 +81,7 @@ npm run lint
 
 ### Project Structure
 
-.
+`
 ├── dist/                  # Build output directory
 ├── src/                   # Source code directory
 ├── eslint.config.js       # ESLint configuration
@@ -94,6 +94,7 @@ npm run lint
 ├── tsconfig.json          # Root TypeScript configuration
 ├── tsconfig.node.json     # TypeScript configuration for Node.js
 ├── vite.config.ts         # Vite configuration
+`
 
 ## Planned Features
 
