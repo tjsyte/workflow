@@ -95,7 +95,6 @@ npm run lint
 ├── tsconfig.node.json     # TypeScript configuration for Node.js
 ├── vite.config.ts         # Vite configuration
 
-
 ## Planned Features
 
 - **Tasks Management**: Create, update, and delete tasks with local storage persistence.
